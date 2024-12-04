@@ -4,3 +4,7 @@ wandb
 venv
 __pycache__
 test
+result.txt
+api_key
+tmp*
+test*
