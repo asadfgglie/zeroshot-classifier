@@ -2,3 +2,7 @@
 results
 wandb
 venv
+result.txt
+api_key
+tmp*
+test*
