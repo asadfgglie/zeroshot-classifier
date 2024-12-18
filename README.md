@@ -1,3 +1,13 @@
+# zeroshot-classifier
+
+This repository contain original repository code. We use `data_harmonization_zh_nli.ipynb` to format our Non NLI dataset.
+Please refer to `upload_dataset.ipynb` for information on how we label raw conversation data.
+
+We modified it into our training code based on `v1_human_data/4_train_eval.ipynb` in the original repository.
+Please refer to `train_eval.ipynb` for the specific code.
+
+Below is original repository README:
+
 ## Building an efficient zero-shot classifier
 
 This repository contains the code for preparing the data and training the zeroshot models described in the paper "[Building Efficient Universal Classifiers with Natural Language Inference
